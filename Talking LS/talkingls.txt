@@ -1,0 +1,4 @@
+First search through the folders. You can find many Mac OS specific folders that the OS leaves there. But there is also a PDF with a password and a suspect folder called .password. Hmmm. Lets check it out
+
+password = Im The Password
+flag = ABCTF{T3Rm1n4l_is_C00l}
