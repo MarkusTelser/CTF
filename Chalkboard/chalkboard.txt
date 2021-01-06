@@ -1,0 +1,27 @@
+Have to solve equation and know values of x and y.
+
+given:
+7x + 9y = 59
+3x + 5y = 31
+
+first equation:
+3x + 5y = 31
+3x = 31 - 5y
+x = 31 - 5y / 3
+
+second equation:
+7x + 9y = 59
+7x = 59 - 9y
+x = 59 - 9y / 7
+
+third equation:
+31 - 5y / 3 = 59 - 9y / 7
+31 - 5y * 7 = 59 - 9y * 3
+217 - 35y = 177 - 27y
+8y = 40
+
+y = 5
+x = 2
+
+flag = CTFlearn{I_Like_Math_2_5}
+
