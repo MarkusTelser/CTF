@@ -1,0 +1,5 @@
+Extract strings from image with website 29a.ch: 
+found string was the flag
+
+flag = flag{wow!_data_is_cool}
+
