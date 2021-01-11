@@ -1,20 +1,4 @@
-Tools:
-
--nmap: scans all ports and you recive the package the host sends back
- if the host gives no answer it is filtered
- otherwise it is open or closed 
-  -SYN scan(-sS) standard method for scaning
-
--dirbuster: check if there are any hidden folders on this website
--wfuzz: (=dirbuster without gui) searches web content with the word you give, it brute forces files with these names
-
-Infos:
-
--webside:
-   -if the ctf leads to a website, check if the html code is commented
-    and maybe there you can find some information
-   -check if website + /admin /login.php /robot.txt
-   -if page doesnt load things, you can add host file to /etc/hosts
+Some infos about ctf resources/useful websites.
 
 Resources:
 http://ctfs.github.io/resource/
