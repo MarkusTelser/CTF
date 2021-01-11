@@ -1,0 +1,3 @@
+Use binwalk to display any file in picture and then extract it out. With these commands binwalk PurpleThing.jpeg and binwalk --dd='.*' PurpelThing.jepg. In the extracted folder you can find three images and display them with display <image>.
+
+flag=ABCTF{b1nw4lk_is_us3ful}
