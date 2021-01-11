@@ -1,0 +1,13 @@
+Tools:
+
+-nmap: scans all ports and you recive the package the host sends back
+ if the host gives no answer it is filtered
+ otherwise it is open or closed 
+  -SYN scan(-sS) standard method for scaning
+
+-dirbuster: check if there are any hidden folders on this website
+
+-wfuzz: (=dirbuster without gui) searches web content with the word you give, it brute forces files with these names
+
+-binwalk (extract files from image):
+  -use binwalk -dd='.*' <filename> to extract all files from image
