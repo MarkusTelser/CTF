@@ -1,0 +1,9 @@
+Where do robots find what pages are on a website?
+
+Hint:
+
+    What does disallow tell a robot?
+
+The robots.txt is a file that gives permissions for web crawlers. There you can find a disallowed url.
+
+flag = CTFlearn{r0b0ts_4r3_th3_futur3}
