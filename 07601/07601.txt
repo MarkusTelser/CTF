@@ -1,0 +1,3 @@
+First search for files in picutre, then extract zip. Find with strings and grep command hidden text in anothe picture.Use grep -E '({|})' to find flag in string
+
+flag: ABCTF{Du$t1nS_D0jo}
