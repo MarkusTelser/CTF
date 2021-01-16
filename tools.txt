@@ -9,5 +9,17 @@ Tools:
 
 -wfuzz: (=dirbuster without gui) searches web content with the word you give, it brute forces files with these names
 
+----------Steganography----------
+
 -binwalk (extract files from image):
   -use binwalk -dd='.*' <filename> to extract all files from image
+
+-29a.ch: for text extraction from images
+
+-stegsolve: edit, search through images
+
+-exiftool: shows meta data of file
+
+-steghide: hides data in files
+
+-strings
