@@ -22,4 +22,6 @@ Tools:
 
 -steghide: hides data in files
 
--strings
+-strings: prints strings extracted
+
+-pngcheck: check the state of image
