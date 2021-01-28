@@ -1,0 +1,7 @@
+Given:
+Find the flag! Simple forensics challenge to get started with.
+
+Answer:
+The flag is in the comment tag of meta data. Fint with exiftool.
+
+flag = CTFlearn{ILoveJakarta}
