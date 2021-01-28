@@ -1,0 +1,7 @@
+Given:
+Help! I can't open this file. Something to do with the file header… Whatever that is. https://mega.nz/#!aKwGFARR!rS60DdUh8-jHMac572TSsdsANClqEsl9PD2sGl-SyDk
+
+Answer:
+Open gif in hex editor, than fix the header and decode the gif in base64.
+
+flag=flag{g1f_or_j1f} 
