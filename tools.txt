@@ -25,3 +25,5 @@ Tools:
 -strings: prints strings extracted
 
 -pngcheck: check the state of image
+
+-hexedit: hex viewer to repair header etc
