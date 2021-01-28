@@ -1,0 +1,7 @@
+Given:
+This isn't what I had in mind, when I asked someone to capture a flag... can you help? You should check out WireShark. https://mega.nz/#!3WhAWKwR!1T9cw2srN2CeOQWeuCm0ZVXgwk-E2v-TrPsZ4HUQ_f4
+
+Answer: 
+if u open file in wireshark and filter http protocl, and then filter again. You can see a GET request with ?msg. Decode the data after it in base64 and you have the flag.
+
+flag=flag{AFlagInPCAP}
