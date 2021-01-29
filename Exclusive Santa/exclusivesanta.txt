@@ -1,0 +1,10 @@
+Give:
+Dear Santa,
+
+Hey! There are so many toys that I want, but I just don't have the money. I don't care which toy I get as long as it's one or the other, but not both!
+- CTFlearn
+
+Answer:
+Search with binwalk for files in one of the images you can find another image. If you open stegsolve and combine the pictures you get a new picture and that is the flag.
+
+flag=CTFlearn{Santa_1s_C0ming}
